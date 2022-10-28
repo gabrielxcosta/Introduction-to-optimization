@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<areas version="2.0">
+  <area id="1">
+    <location id="386"/>
+    <location id="330"/>
+    <location id="17"/>
+    <location id="531"/>
+    <location id="532"/>
+    <location id="22"/>
+    <location id="534"/>
+    <location id="1111"/>
+    <location id="1114"/>
+    <location id="926"/>
+    <location id="927"/>
+    <location id="294"/>
+    <location id="297"/>
+    <location id="554"/>
+    <location id="556"/>
+    <location id="557"/>
+    <location id="304"/>
+    <location id="306"/>
+    <location id="307"/>
+    <location id="308"/>
+    <location id="1077"/>
+    <location id="1078"/>
+    <location id="312"/>
+    <location id="829"/>
+  </area>
+  <area id="2">
+    <location id="324"/>
+    <location id="1189"/>
+    <location id="327"/>
+    <location id="1258"/>
+    <location id="522"/>
+    <location id="795"/>
+    <location id="44"/>
+    <location id="111"/>
+  </area>
+  <area id="3">
+    <location id="1267"/>
+  </area>
+  <area id="6">
+    <location id="1117"/>
+  </area>
+  <area id="7">
+    <location id="740"/>
+    <location id="804"/>
+    <location id="406"/>
+  </area>
+  <area id="8">
+    <location id="658"/>
+    <location id="178"/>
+    <location id="1172"/>
+    <location id="150"/>
+    <location id="1095"/>
+    <location id="1224"/>
+    <location id="136"/>
+    <location id="156"/>
+    <location id="206"/>
+    <location id="126"/>
+    <location id="462"/>
+  </area>
+</areas>

@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<humanResources version="2.0">
+  <humanResource id="64">
+    <startLocation id="531"/>
+    <endLocation id="531"/>
+    <contracts>
+      <contract id="114"/>
+    </contracts>
+    <skills>
+      <skill id="2"/>
+      <skill id="6"/>
+      <skill id="7"/>
+      <skill id="10"/>
+      <skill id="12"/>
+      <skill id="14"/>
+    </skills>
+    <availabilities>
+      <available day="1" from="525" to="899"/>
+    </availabilities>
+    <availableAreas>
+      <area id="2" preferenceLevel="1.00"/>
+      <area id="7" preferenceLevel="1.00"/>
+      <area id="8" preferenceLevel="1.00"/>
+    </availableAreas>
+    <availableTransports>
+      <transportationMode id="1"/>
+    </availableTransports>
+  </humanResource>
+  <humanResource id="65">
+    <startLocation id="532"/>
+    <endLocation id="532"/>
+    <contracts>
+      <contract id="110"/>
+    </contracts>
+    <skills>
+      <skill id="2"/>
+      <skill id="6"/>
+      <skill id="7"/>
+      <skill id="10"/>
+      <skill id="12"/>
+      <skill id="14"/>
+    </skills>
+    <availabilities>
+      <notAvailable/>
+    </availabilities>
+    <availableAreas>
+      <area id="2" preferenceLevel="1.00"/>
+      <area id="7" preferenceLevel="1.00"/>
+      <area id="8" preferenceLevel="1.00"/>
+    </availableAreas>
+    <availableTransports>
+      <transportationMode id="1"/>
+    </availableTransports>
+  </humanResource>
+  <humanResource id="67">
+    <startLocation id="534"/>
+    <endLocation id="534"/>
+    <contracts>
+      <contract id="130"/>
+    </contracts>
+    <skills>
+      <skill id="2"/>
+      <skill id="15"/>
+    </skills>
+    <availabilities>
+      <notAvailable/>
+    </availabilities>
+    <availableAreas>
+      <availableInEveryArea/>
+    </availableAreas>
+    <availableTransports>
+      <transportationMode id="1"/>
+    </availableTransports>
+  </humanResource>
+  <humanResource id="4">
+    <startLocation id="17"/>
+    <endLocation id="17"/>
+    <contracts>
+      <contract id="5"/>
+    </contracts>
+    <skills>
+      <skill id="2"/>
+      <skill id="3"/>
+      <skill id="4"/>
+      <skill id="5"/>
+      <skill id="6"/>
+      <skill id="7"/>
+      <skill id="10"/>
+      <skill id="12"/>
+      <skill id="-5"/>
+    </skills>
+    <availabilities>
+      <available day="1" from="480" to="1139"/>
+    </availabilities>
+    <availableAreas>
+      <area id="2" preferenceLevel="1.00"/>
+      <area id="7" preferenceLevel="1.00"/>
+      <area id="8" preferenceLevel="1.00"/>
+    </availableAreas>
+    <availableTransports>
+      <transportationMode id="1"/>
+    </availableTransports>
+  </humanResource>
+  <humanResource id="68">
+    <startLocation id="554"/>
+    <endLocation id="554"/>
+    <contracts>
+      <contract id="127"/>
+    </contracts>
+    <skills>
+      <skill id="2"/>
+      <skill id="15"/>
+      <skill id="-5"/>
+    </skills>
+    <availabilities>
+      <notAvailable/>
+    </availabilities>
+    <availableAreas>
+      <availableInEveryArea/>
+    </availableAreas>
+    <availableTransports>
+      <transportationMode id="1"/>
+    </availableTransports>
+  </humanResource>
+  <humanResource id="70">
+    <startLocation id="556"/>
+    <endLocation id="556"/>
+    <contracts>
+      <contract id="125"/>
+    </contracts>
+    <skills>
+      <skill id="2"/>
+      <skill id="15"/>
+    </skills>
+    <availabilities>
+      <notAvailable/>
+    </availabilities>
+    <availableAreas>
+      <availableInEveryArea/>
+    </availableAreas>
+    <availableTransports>
+      <transportationMode id="1"/>
+    </availableTransports>
+  </humanResource>
+  <humanResource id="7">
+    <startLocation id="22"/>
+    <endLocation id="22"/>
+    <contracts>
+      <contract id="7"/>
+    </contracts>
+    <skills>
+      <skill id="2"/>
+      <skill id="3"/>
+      <skill id="4"/>
+      <skill id="5"/>
+      <skill id="6"/>
+      <skill id="7"/>
+      <skill id="10"/>
+      <skill id="12"/>
+      <skill id="-5"/>
+    </skills>
+    <availabilities>
+      <available day="1" from="480" to="1139"/>
+    </availabilities>
+    <availableAreas>
+      <area id="2" preferenceLevel="1.00"/>
+      <area id="7" preferenceLevel="1.00"/>
+      <area id="8" preferenceLevel="1.00"/>
+    </availableAreas>
+    <availableTransports>
+      <transportationMode id="1"/>
+    </availableTransports>
+  </humanResource>
+  <humanResource id="71">
+    <startLocation id="557"/>
+    <endLocation id="557"/>
+    <contracts>
+      <contract id="123"/>
+    </contracts>
+    <skills>
+      <skill id="2"/>
+      <skill id="3"/>
+      <skill id="4"/>
+      <skill id="5"/>
+      <skill id="6"/>
+      <skill id="7"/>
+      <skill id="10"/>
+      <skill id="12"/>
+      <skill id="14"/>
+      <skill id="-5"/>
+    </skills>
+    <availabilities>
+      <notAvailable/>
+    </availabilities>
+    <availableAreas>
+      <area id="7" preferenceLevel="1.00"/>
+    </availableAreas>
+    <availableTransports>
+      <transportationMode id="1"/>
+    </availableTransports>
+  </humanResource>
+  <humanResource id="17">
+    <startLocation id="294"/>
+    <endLocation id="294"/>
+    <contracts>
+      <contract id="16"/>
+    </contracts>
+    <skills>
+      <skill id="2"/>
+      <skill id="3"/>
+      <skill id="4"/>
+      <skill id="5"/>
+      <skill id="6"/>
+      <skill id="7"/>
+      <skill id="10"/>
+      <skill id="12"/>
+    </skills>
+    <availabilities>
+      <available day="1" from="570" to="884"/>
+    </availabilities>
+    <availableAreas>
+      <area id="2" preferenceLevel="1.00"/>
+      <area id="7" preferenceLevel="1.00"/>
+      <area id="8" preferenceLevel="1.00"/>
+    </availableAreas>
+    <availableTransports>
+      <transportationMode id="1"/>
+    </availableTransports>
+  </humanResource>
+  <humanResource id="20">
+    <startLocation id="297"/>
+    <endLocation id="297"/>
+    <contracts>
+      <contract id="18"/>
+    </contracts>
+    <skills>
+      <skill id="2"/>
+      <skill id="3"/>
+      <skill id="4"/>
+      <skill id="5"/>
+      <skill id="6"/>
+      <skill id="7"/>
+      <skill id="10"/>
+      <skill id="12"/>
+      <skill id="14"/>
+    </skills>
+    <availabilities>
+      <available day="1" from="420" to="1079"/>
+    </availabilities>
+    <availableAreas>
+      <area id="2" preferenceLevel="1.00"/>
+      <area id="7" preferenceLevel="1.00"/>
+      <area id="8" preferenceLevel="1.00"/>
+    </availableAreas>
+    <availableTransports>
+      <transportationMode id="1"/>
+    </availableTransports>
+  </humanResource>
+  <humanResource id="90">
+    <startLocation id="829"/>
+    <endLocation id="829"/>
+    <contracts>
+      <contract id="176"/>
+    </contracts>
+    <skills>
+      <skill id="16"/>
+      <skill id="2"/>
+      <skill id="15"/>
+    </skills>
+    <availabilities>
+      <notAvailable/>
+    </availabilities>
+    <availableAreas>
+      <availableInEveryArea/>
+    </availableAreas>
+    <availableTransports>
+      <transportationMode id="1"/>
+    </availableTransports>
+  </humanResource>
+  <humanResource id="27">
+    <startLocation id="304"/>
+    <endLocation id="304"/>
+    <contracts>
+      <contract id="25"/>
+    </contracts>
+    <skills>
+      <skill id="2"/>
+      <skill id="3"/>
+      <skill id="4"/>
+      <skill id="5"/>
+      <skill id="6"/>
+      <skill id="7"/>
+      <skill id="10"/>
+      <skill id="12"/>
+      <skill id="14"/>
+    </skills>
+    <availabilities>
+      <available day="1" from="420" to="839"/>
+    </availabilities>
+    <availableAreas>
+      <area id="2" preferenceLevel="1.00"/>
+      <area id="7" preferenceLevel="1.00"/>
+      <area id="8" preferenceLevel="1.00"/>
+    </availableAreas>
+    <availableTransports>
+      <transportationMode id="1"/>
+    </availableTransports>
+  </humanResource>
+  <humanResource id="29">
+    <startLocation id="306"/>
+    <endLocation id="306"/>
+    <contracts>
+      <contract id="27"/>
+    </contracts>
+    <skills>
+      <skill id="2"/>
+      <skill id="3"/>
+      <skill id="4"/>
+      <skill id="5"/>
+      <skill id="6"/>
+      <skill id="7"/>
+      <skill id="10"/>
+      <skill id="12"/>
+    </skills>
+    <availabilities>
+      <notAvailable/>
+    </availabilities>
+    <availableAreas>
+      <area id="7" preferenceLevel="1.00"/>
+    </availableAreas>
+    <availableTransports>
+      <transportationMode id="1"/>
+    </availableTransports>
+  </humanResource>
+  <humanResource id="30">
+    <startLocation id="307"/>
+    <endLocation id="307"/>
+    <contracts>
+      <contract id="28"/>
+    </contracts>
+    <skills>
+      <skill id="2"/>
+      <skill id="3"/>
+      <skill id="4"/>
+      <skill id="5"/>
+      <skill id="6"/>
+      <skill id="7"/>
+      <skill id="10"/>
+      <skill id="12"/>
+      <skill id="14"/>
+    </skills>
+    <availabilities>
+      <available day="1" from="510" to="989"/>
+    </availabilities>
+    <availableAreas>
+      <area id="7" preferenceLevel="0.00"/>
+      <area id="8" preferenceLevel="1.00"/>
+    </availableAreas>
+    <availableTransports>
+      <transportationMode id="1"/>
+    </availableTransports>
+  </humanResource>
+  <humanResource id="94">
+    <startLocation id="926"/>
+    <endLocation id="926"/>
+    <contracts>
+      <contract id="161"/>
+    </contracts>
+    <skills>
+      <skill id="2"/>
+      <skill id="3"/>
+      <skill id="4"/>
+      <skill id="5"/>
+      <skill id="6"/>
+      <skill id="7"/>
+      <skill id="10"/>
+      <skill id="12"/>
+    </skills>
+    <availabilities>
+      <notAvailable/>
+    </availabilities>
+    <availableAreas>
+      <area id="7" preferenceLevel="1.00"/>
+      <area id="8" preferenceLevel="0.00"/>
+    </availableAreas>
+    <availableTransports>
+      <transportationMode id="1"/>
+    </availableTransports>
+  </humanResource>
+  <humanResource id="31">
+    <startLocation id="308"/>
+    <endLocation id="308"/>
+    <contracts>
+      <contract id="29"/>
+    </contracts>
+    <skills>
+      <skill id="2"/>
+      <skill id="3"/>
+      <skill id="4"/>
+      <skill id="5"/>
+      <skill id="6"/>
+      <skill id="7"/>
+      <skill id="10"/>
+      <skill id="12"/>
+    </skills>
+    <availabilities>
+      <available day="1" from="480" to="959"/>
+    </availabilities>
+    <availableAreas>
+      <area id="2" preferenceLevel="1.00"/>
+      <area id="7" preferenceLevel="1.00"/>
+      <area id="8" preferenceLevel="1.00"/>
+    </availableAreas>
+    <availableTransports>
+      <transportationMode id="1"/>
+    </availableTransports>
+  </humanResource>
+  <humanResource id="95">
+    <startLocation id="927"/>
+    <endLocation id="927"/>
+    <contracts>
+      <contract id="168"/>
+    </contracts>
+    <skills>
+      <skill id="2"/>
+      <skill id="3"/>
+      <skill id="4"/>
+      <skill id="5"/>
+      <skill id="6"/>
+      <skill id="7"/>
+      <skill id="10"/>
+      <skill id="12"/>
+    </skills>
+    <availabilities>
+      <available day="1" from="600" to="1214"/>
+    </availabilities>
+    <availableAreas>
+      <availableInEveryArea/>
+      <area id="7" preferenceLevel="1.00"/>
+      <area id="8" preferenceLevel="0.00"/>
+    </availableAreas>
+    <availableTransports>
+      <transportationMode id="1"/>
+    </availableTransports>
+  </humanResource>
+  <humanResource id="98">
+    <startLocation id="1077"/>
+    <endLocation id="1077"/>
+    <contracts>
+      <contract id="169"/>
+    </contracts>
+    <skills>
+      <skill id="15"/>
+    </skills>
+    <availabilities>
+      <notAvailable/>
+    </availabilities>
+    <availableAreas>
+      <availableInEveryArea/>
+    </availableAreas>
+    <availableTransports>
+      <transportationMode id="1"/>
+    </availableTransports>
+  </humanResource>
+  <humanResource id="35">
+    <startLocation id="312"/>
+    <endLocation id="312"/>
+    <contracts>
+      <contract id="31"/>
+    </contracts>
+    <skills>
+      <skill id="2"/>
+      <skill id="3"/>
+      <skill id="4"/>
+      <skill id="5"/>
+      <skill id="6"/>
+      <skill id="7"/>
+      <skill id="10"/>
+      <skill id="12"/>
+    </skills>
+    <availabilities>
+      <notAvailable/>
+    </availabilities>
+    <availableAreas>
+      <area id="2" preferenceLevel="1.00"/>
+      <area id="7" preferenceLevel="1.00"/>
+      <area id="8" preferenceLevel="0.00"/>
+    </availableAreas>
+    <availableTransports>
+      <transportationMode id="1"/>
+    </availableTransports>
+  </humanResource>
+  <humanResource id="99">
+    <startLocation id="1078"/>
+    <endLocation id="1078"/>
+    <contracts>
+      <contract id="170"/>
+    </contracts>
+    <skills>
+      <skill id="16"/>
+      <skill id="15"/>
+    </skills>
+    <availabilities>
+      <notAvailable/>
+    </availabilities>
+    <availableAreas>
+      <availableInEveryArea/>
+    </availableAreas>
+    <availableTransports>
+      <transportationMode id="1"/>
+    </availableTransports>
+  </humanResource>
+  <humanResource id="101">
+    <startLocation id="1111"/>
+    <endLocation id="1111"/>
+    <contracts>
+      <contract id="173"/>
+    </contracts>
+    <skills>
+      <skill id="2"/>
+      <skill id="3"/>
+      <skill id="4"/>
+      <skill id="5"/>
+      <skill id="6"/>
+      <skill id="7"/>
+      <skill id="10"/>
+      <skill id="12"/>
+      <skill id="14"/>
+    </skills>
+    <availabilities>
+      <available day="1" from="420" to="1319"/>
+    </availabilities>
+    <availableAreas>
+      <availableInEveryArea/>
+    </availableAreas>
+    <availableTransports>
+      <transportationMode id="1"/>
+    </availableTransports>
+  </humanResource>
+  <humanResource id="39">
+    <startLocation id="330"/>
+    <endLocation id="330"/>
+    <contracts>
+      <contract id="35"/>
+      <contract id="149"/>
+    </contracts>
+    <skills>
+      <skill id="2"/>
+      <skill id="3"/>
+      <skill id="4"/>
+      <skill id="5"/>
+      <skill id="6"/>
+      <skill id="7"/>
+      <skill id="10"/>
+      <skill id="12"/>
+      <skill id="15"/>
+      <skill id="-5"/>
+    </skills>
+    <availabilities>
+      <notAvailable/>
+    </availabilities>
+    <availableAreas>
+      <availableInEveryArea/>
+    </availableAreas>
+    <availableTransports>
+      <transportationMode id="1"/>
+    </availableTransports>
+  </humanResource>
+  <humanResource id="45">
+    <startLocation id="386"/>
+    <endLocation id="386"/>
+    <contracts>
+      <contract id="72"/>
+    </contracts>
+    <skills>
+      <skill id="2"/>
+      <skill id="3"/>
+      <skill id="4"/>
+      <skill id="5"/>
+      <skill id="6"/>
+      <skill id="7"/>
+      <skill id="10"/>
+      <skill id="12"/>
+      <skill id="14"/>
+    </skills>
+    <availabilities>
+      <available day="1" from="1080" to="1259"/>
+    </availabilities>
+    <availableAreas>
+      <area id="7" preferenceLevel="0.00"/>
+      <area id="8" preferenceLevel="1.00"/>
+    </availableAreas>
+    <availableTransports>
+      <transportationMode id="1"/>
+    </availableTransports>
+  </humanResource>
+</humanResources>

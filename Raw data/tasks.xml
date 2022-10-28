@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<tasks version="2.0">
+  <task id="251779">
+    <location id="111"/>
+    <date>1</date>
+    <timeWindow begin="720" end="720"/>
+    <duration>44</duration>
+    <humanResources min="1" max="1"/>
+    <skillsRequirements>
+      <skill id="7" preferenceLevel="1.00"/>
+    </skillsRequirements>
+    <staffRequirements>
+      <humanResource id="64" preferenceLevel="0.48"/>
+      <humanResource id="35" preferenceLevel="0.93"/>
+      <humanResource id="4" preferenceLevel="0.52"/>
+      <humanResource id="101" preferenceLevel="0.33"/>
+      <humanResource id="7" preferenceLevel="0.30"/>
+      <humanResource id="95" preferenceLevel="0.04"/>
+    </staffRequirements>
+  </task>
+  <task id="243392">
+    <location id="156"/>
+    <date>1</date>
+    <timeWindow begin="465" end="465"/>
+    <duration>59</duration>
+    <humanResources min="1" max="1"/>
+    <skillsRequirements>
+      <skill id="2" preferenceLevel="1.00"/>
+    </skillsRequirements>
+    <staffRequirements>
+      <humanResource id="35" preferenceLevel="0.02"/>
+      <humanResource id="20" preferenceLevel="0.96"/>
+      <humanResource id="101" preferenceLevel="0.10"/>
+      <humanResource id="27" preferenceLevel="0.23"/>
+      <humanResource id="31" preferenceLevel="0.08"/>
+    </staffRequirements>
+  </task>
+  <task id="266496">
+    <location id="1267"/>
+    <date>1</date>
+    <timeWindow begin="480" end="480"/>
+    <duration>719</duration>
+    <humanResources min="1" max="1"/>
+    <skillsRequirements>
+      <skill id="15" preferenceLevel="1.00"/>
+    </skillsRequirements>
+    <staffRequirements>
+      <humanResource id="70" preferenceLevel="0.50"/>
+      <humanResource id="39" preferenceLevel="0.25"/>
+    </staffRequirements>
+  </task>
+  <task id="265923">
+    <location id="1172"/>
+    <date>1</date>
+    <timeWindow begin="720" end="720"/>
+    <duration>59</duration>
+    <humanResources min="1" max="1"/>
+    <skillsRequirements>
+      <skill id="2" preferenceLevel="1.00"/>
+    </skillsRequirements>
+    <staffRequirements>
+      <humanResource id="64" preferenceLevel="0.06"/>
+      <humanResource id="20" preferenceLevel="0.03"/>
+      <humanResource id="101" preferenceLevel="0.24"/>
+      <humanResource id="27" preferenceLevel="0.03"/>
+      <humanResource id="30" preferenceLevel="0.94"/>
+    </staffRequirements>
+  </task>
+  <task id="245321">
+    <location id="126"/>
+    <date>1</date>
+    <timeWindow begin="600" end="600"/>
+    <duration>89</duration>
+    <humanResources min="1" max="1"/>
+    <skillsRequirements>
+      <skill id="2" preferenceLevel="1.00"/>
+    </skillsRequirements>
+    <staffRequirements>
+      <humanResource id="20" preferenceLevel="0.92"/>
+    </staffRequirements>
+  </task>
+  <task id="255049">
+    <location id="1114"/>
+    <date>1</date>
+    <timeWindow begin="750" end="750"/>
+    <duration>59</duration>
+    <humanResources min="1" max="1"/>
+    <skillsRequirements>
+      <skill id="2" preferenceLevel="1.00"/>
+    </skillsRequirements>
+    <staffRequirements>
+      <humanResource id="101" preferenceLevel="0.86"/>
+      <humanResource id="95" preferenceLevel="0.79"/>
+    </staffRequirements>
+  </task>
+  <task id="246222">
+    <location id="178"/>
+    <date>1</date>
+    <timeWindow begin="615" end="615"/>
+    <duration>89</duration>
+    <humanResources min="1" max="1"/>
+    <skillsRequirements>
+      <skill id="2" preferenceLevel="1.00"/>
+    </skillsRequirements>
+    <staffRequirements>
+      <humanResource id="101" preferenceLevel="0.05"/>
+      <humanResource id="27" preferenceLevel="0.97"/>
+      <humanResource id="45" preferenceLevel="0.05"/>
+    </staffRequirements>
+  </task>
+  <task id="250381">
+    <location id="206"/>
+    <date>1</date>
+    <timeWindow begin="720" end="720"/>
+    <duration>44</duration>
+    <humanResources min="1" max="1"/>
+    <skillsRequirements>
+      <skill id="7" preferenceLevel="1.00"/>
+    </skillsRequirements>
+    <staffRequirements>
+      <humanResource id="65" preferenceLevel="0.12"/>
+      <humanResource id="20" preferenceLevel="0.29"/>
+      <humanResource id="27" preferenceLevel="0.34"/>
+      <humanResource id="31" preferenceLevel="0.97"/>
+    </staffRequirements>
+  </task>
+  <task id="244434">
+    <location id="150"/>
+    <date>1</date>
+    <timeWindow begin="510" end="510"/>
+    <duration>119</duration>
+    <humanResources min="1" max="1"/>
+    <skillsRequirements>
+      <skill id="2" preferenceLevel="1.00"/>
+    </skillsRequirements>
+    <staffRequirements>
+      <humanResource id="27" preferenceLevel="0.23"/>
+      <humanResource id="30" preferenceLevel="0.85"/>
+    </staffRequirements>
+  </task>
+  <task id="247057">
+    <location id="804"/>
+    <date>1</date>
+    <timeWindow begin="750" end="750"/>
+    <duration>59</duration>
+    <humanResources min="1" max="1"/>
+    <skillsRequirements>
+      <skill id="2" preferenceLevel="1.00"/>
+    </skillsRequirements>
+    <staffRequirements>
+      <humanResource id="17" preferenceLevel="0.89"/>
+      <humanResource id="101" preferenceLevel="0.11"/>
+      <humanResource id="95" preferenceLevel="0.16"/>
+    </staffRequirements>
+  </task>
+  <task id="261649">
+    <location id="1189"/>
+    <date>1</date>
+    <timeWindow begin="1200" end="1200"/>
+    <duration>719</duration>
+    <humanResources min="1" max="1"/>
+    <skillsRequirements>
+      <skill id="15" preferenceLevel="1.00"/>
+    </skillsRequirements>
+  </task>
+  <task id="254874">
+    <location id="522"/>
+    <date>1</date>
+    <timeWindow begin="600" end="600"/>
+    <duration>59</duration>
+    <humanResources min="1" max="1"/>
+    <skillsRequirements>
+      <skill id="2" preferenceLevel="1.00"/>
+    </skillsRequirements>
+    <staffRequirements>
+      <humanResource id="64" preferenceLevel="0.07"/>
+      <humanResource id="7" preferenceLevel="0.86"/>
+      <humanResource id="95" preferenceLevel="0.07"/>
+    </staffRequirements>
+  </task>
+  <task id="244824">
+    <location id="136"/>
+    <date>1</date>
+    <timeWindow begin="570" end="570"/>
+    <duration>59</duration>
+    <humanResources min="1" max="1"/>
+    <skillsRequirements>
+      <skill id="2" preferenceLevel="1.00"/>
+    </skillsRequirements>
+    <staffRequirements>
+      <humanResource id="64" preferenceLevel="0.05"/>
+      <humanResource id="65" preferenceLevel="0.95"/>
+      <humanResource id="35" preferenceLevel="0.10"/>
+      <humanResource id="20" preferenceLevel="0.13"/>
+      <humanResource id="101" preferenceLevel="0.05"/>
+      <humanResource id="27" preferenceLevel="0.08"/>
+      <humanResource id="45" preferenceLevel="0.03"/>
+      <humanResource id="30" preferenceLevel="0.41"/>
+      <humanResource id="31" preferenceLevel="0.23"/>
+    </staffRequirements>
+  </task>
+  <task id="248671">
+    <location id="324"/>
+    <date>1</date>
+    <timeWindow begin="1035" end="1035"/>
+    <duration>74</duration>
+    <humanResources min="1" max="1"/>
+    <skillsRequirements>
+      <skill id="3" preferenceLevel="1.00"/>
+    </skillsRequirements>
+    <staffRequirements>
+      <humanResource id="35" preferenceLevel="0.73"/>
+      <humanResource id="101" preferenceLevel="0.50"/>
+      <humanResource id="7" preferenceLevel="0.91"/>
+    </staffRequirements>
+  </task>
+  <task id="244382">
+    <location id="462"/>
+    <date>1</date>
+    <timeWindow begin="645" end="645"/>
+    <duration>59</duration>
+    <humanResources min="1" max="1"/>
+    <skillsRequirements>
+      <skill id="2" preferenceLevel="1.00"/>
+    </skillsRequirements>
+    <staffRequirements>
+      <humanResource id="64" preferenceLevel="0.09"/>
+      <humanResource id="65" preferenceLevel="0.05"/>
+      <humanResource id="101" preferenceLevel="0.19"/>
+      <humanResource id="27" preferenceLevel="0.09"/>
+      <humanResource id="29" preferenceLevel="0.23"/>
+      <humanResource id="45" preferenceLevel="0.07"/>
+      <humanResource id="30" preferenceLevel="0.95"/>
+    </staffRequirements>
+  </task>
+  <task id="261090">
+    <location id="1095"/>
+    <date>1</date>
+    <timeWindow begin="465" end="465"/>
+    <duration>14</duration>
+    <humanResources min="1" max="1"/>
+    <skillsRequirements>
+      <skill id="2" preferenceLevel="1.00"/>
+    </skillsRequirements>
+    <staffRequirements>
+      <humanResource id="65" preferenceLevel="0.10"/>
+      <humanResource id="20" preferenceLevel="0.16"/>
+      <humanResource id="101" preferenceLevel="0.98"/>
+      <humanResource id="27" preferenceLevel="0.50"/>
+      <humanResource id="45" preferenceLevel="0.23"/>
+      <humanResource id="30" preferenceLevel="0.01"/>
+      <humanResource id="31" preferenceLevel="0.01"/>
+      <humanResource id="95" preferenceLevel="0.29"/>
+    </staffRequirements>
+  </task>
+  <task id="264485">
+    <location id="658"/>
+    <date>1</date>
+    <timeWindow begin="570" end="570"/>
+    <duration>119</duration>
+    <humanResources min="1" max="1"/>
+    <skillsRequirements>
+      <skill id="2" preferenceLevel="1.00"/>
+    </skillsRequirements>
+    <staffRequirements>
+      <humanResource id="20" preferenceLevel="0.09"/>
+      <humanResource id="31" preferenceLevel="0.94"/>
+    </staffRequirements>
+  </task>
+  <task id="242976">
+    <location id="327"/>
+    <date>1</date>
+    <timeWindow begin="960" end="960"/>
+    <duration>59</duration>
+    <humanResources min="1" max="1"/>
+    <skillsRequirements>
+      <skill id="2" preferenceLevel="1.00"/>
+    </skillsRequirements>
+    <staffRequirements>
+      <humanResource id="64" preferenceLevel="0.07"/>
+      <humanResource id="35" preferenceLevel="0.73"/>
+      <humanResource id="4" preferenceLevel="0.93"/>
+      <humanResource id="20" preferenceLevel="0.30"/>
+      <humanResource id="101" preferenceLevel="0.37"/>
+      <humanResource id="95" preferenceLevel="0.87"/>
+    </staffRequirements>
+  </task>
+  <task id="254699">
+    <location id="1095"/>
+    <date>1</date>
+    <timeWindow begin="555" end="555"/>
+    <duration>59</duration>
+    <humanResources min="1" max="1"/>
+    <skillsRequirements>
+      <skill id="2" preferenceLevel="1.00"/>
+    </skillsRequirements>
+    <staffRequirements>
+      <humanResource id="65" preferenceLevel="0.10"/>
+      <humanResource id="20" preferenceLevel="0.16"/>
+      <humanResource id="101" preferenceLevel="0.98"/>
+      <humanResource id="27" preferenceLevel="0.50"/>
+      <humanResource id="45" preferenceLevel="0.23"/>
+      <humanResource id="30" preferenceLevel="0.01"/>
+      <humanResource id="31" preferenceLevel="0.01"/>
+      <humanResource id="95" preferenceLevel="0.29"/>
+    </staffRequirements>
+  </task>
+  <task id="249963">
+    <location id="740"/>
+    <date>1</date>
+    <timeWindow begin="720" end="720"/>
+    <duration>179</duration>
+    <humanResources min="2" max="2"/>
+    <skillsRequirements>
+      <skill id="2" preferenceLevel="1.00"/>
+    </skillsRequirements>
+    <staffRequirements>
+      <humanResource id="64" preferenceLevel="0.92"/>
+      <humanResource id="20" preferenceLevel="0.04"/>
+      <humanResource id="101" preferenceLevel="0.16"/>
+      <humanResource id="30" preferenceLevel="0.08"/>
+      <humanResource id="31" preferenceLevel="0.88"/>
+    </staffRequirements>
+  </task>
+  <task id="243496">
+    <location id="795"/>
+    <date>1</date>
+    <timeWindow begin="540" end="540"/>
+    <duration>59</duration>
+    <humanResources min="1" max="1"/>
+    <skillsRequirements>
+      <skill id="2" preferenceLevel="1.00"/>
+    </skillsRequirements>
+    <staffRequirements>
+      <humanResource id="64" preferenceLevel="0.96"/>
+      <humanResource id="35" preferenceLevel="0.02"/>
+      <humanResource id="4" preferenceLevel="0.14"/>
+      <humanResource id="101" preferenceLevel="0.02"/>
+      <humanResource id="7" preferenceLevel="0.02"/>
+    </staffRequirements>
+  </task>
+  <task id="264106">
+    <location id="1224"/>
+    <date>1</date>
+    <timeWindow begin="480" end="480"/>
+    <duration>59</duration>
+    <humanResources min="1" max="1"/>
+    <skillsRequirements>
+      <skill id="2" preferenceLevel="1.00"/>
+    </skillsRequirements>
+    <staffRequirements>
+      <humanResource id="65" preferenceLevel="0.07"/>
+      <humanResource id="20" preferenceLevel="0.05"/>
+      <humanResource id="101" preferenceLevel="0.95"/>
+      <humanResource id="27" preferenceLevel="0.64"/>
+      <humanResource id="45" preferenceLevel="0.30"/>
+    </staffRequirements>
+  </task>
+  <task id="247213">
+    <location id="406"/>
+    <date>1</date>
+    <timeWindow begin="825" end="825"/>
+    <duration>44</duration>
+    <humanResources min="1" max="1"/>
+    <skillsRequirements>
+      <skill id="7" preferenceLevel="1.00"/>
+    </skillsRequirements>
+    <staffRequirements>
+      <humanResource id="17" preferenceLevel="0.64"/>
+      <humanResource id="35" preferenceLevel="0.94"/>
+      <humanResource id="101" preferenceLevel="0.11"/>
+    </staffRequirements>
+  </task>
+  <task id="266420">
+    <location id="1117"/>
+    <date>1</date>
+    <timeWindow begin="1200" end="1200"/>
+    <duration>719</duration>
+    <humanResources min="1" max="1"/>
+    <skillsRequirements>
+      <skill id="15" preferenceLevel="1.00"/>
+    </skillsRequirements>
+    <staffRequirements>
+      <humanResource id="98" preferenceLevel="0.67"/>
+      <humanResource id="68" preferenceLevel="0.17"/>
+    </staffRequirements>
+  </task>
+  <task id="246065">
+    <location id="206"/>
+    <date>1</date>
+    <timeWindow begin="510" end="510"/>
+    <duration>44</duration>
+    <humanResources min="1" max="1"/>
+    <skillsRequirements>
+      <skill id="7" preferenceLevel="1.00"/>
+    </skillsRequirements>
+    <staffRequirements>
+      <humanResource id="65" preferenceLevel="0.12"/>
+      <humanResource id="20" preferenceLevel="0.29"/>
+      <humanResource id="27" preferenceLevel="0.34"/>
+      <humanResource id="31" preferenceLevel="0.97"/>
+    </staffRequirements>
+  </task>
+  <task id="244017">
+    <location id="156"/>
+    <date>1</date>
+    <timeWindow begin="690" end="690"/>
+    <duration>59</duration>
+    <humanResources min="1" max="1"/>
+    <skillsRequirements>
+      <skill id="2" preferenceLevel="1.00"/>
+    </skillsRequirements>
+    <staffRequirements>
+      <humanResource id="35" preferenceLevel="0.02"/>
+      <humanResource id="20" preferenceLevel="0.96"/>
+      <humanResource id="101" preferenceLevel="0.10"/>
+      <humanResource id="27" preferenceLevel="0.23"/>
+      <humanResource id="31" preferenceLevel="0.08"/>
+    </staffRequirements>
+  </task>
+  <task id="256631">
+    <location id="111"/>
+    <date>1</date>
+    <timeWindow begin="1040" end="1040"/>
+    <duration>59</duration>
+    <humanResources min="1" max="1"/>
+    <skillsRequirements>
+      <skill id="2" preferenceLevel="1.00"/>
+    </skillsRequirements>
+    <staffRequirements>
+      <humanResource id="64" preferenceLevel="0.32"/>
+      <humanResource id="35" preferenceLevel="0.59"/>
+      <humanResource id="4" preferenceLevel="0.39"/>
+      <humanResource id="20" preferenceLevel="0.15"/>
+      <humanResource id="101" preferenceLevel="0.46"/>
+      <humanResource id="7" preferenceLevel="0.97"/>
+      <humanResource id="95" preferenceLevel="0.34"/>
+    </staffRequirements>
+  </task>
+  <task id="247866">
+    <location id="44"/>
+    <date>1</date>
+    <timeWindow begin="525" end="525"/>
+    <duration>59</duration>
+    <humanResources min="1" max="1"/>
+    <skillsRequirements>
+      <skill id="2" preferenceLevel="1.00"/>
+    </skillsRequirements>
+    <staffRequirements>
+      <humanResource id="64" preferenceLevel="0.07"/>
+      <humanResource id="35" preferenceLevel="0.67"/>
+      <humanResource id="7" preferenceLevel="0.87"/>
+    </staffRequirements>
+  </task>
+  <task id="241529">
+    <location id="111"/>
+    <date>1</date>
+    <timeWindow begin="480" end="480"/>
+    <duration>59</duration>
+    <humanResources min="1" max="1"/>
+    <skillsRequirements>
+      <skill id="2" preferenceLevel="1.00"/>
+    </skillsRequirements>
+    <staffRequirements>
+      <humanResource id="64" preferenceLevel="0.32"/>
+      <humanResource id="35" preferenceLevel="0.59"/>
+      <humanResource id="4" preferenceLevel="0.39"/>
+      <humanResource id="20" preferenceLevel="0.15"/>
+      <humanResource id="101" preferenceLevel="0.46"/>
+      <humanResource id="7" preferenceLevel="0.97"/>
+      <humanResource id="95" preferenceLevel="0.34"/>
+    </staffRequirements>
+  </task>
+  <task id="266488">
+    <location id="1258"/>
+    <date>1</date>
+    <timeWindow begin="480" end="480"/>
+    <duration>539</duration>
+    <humanResources min="1" max="1"/>
+    <skillsRequirements>
+      <skill id="15" preferenceLevel="1.00"/>
+    </skillsRequirements>
+    <staffRequirements>
+      <humanResource id="99" preferenceLevel="0.50"/>
+      <humanResource id="39" preferenceLevel="0.25"/>
+    </staffRequirements>
+  </task>
+  <task id="253887">
+    <location id="1095"/>
+    <date>1</date>
+    <timeWindow begin="1110" end="1110"/>
+    <duration>29</duration>
+    <humanResources min="1" max="1"/>
+    <skillsRequirements>
+      <skill id="2" preferenceLevel="1.00"/>
+    </skillsRequirements>
+    <staffRequirements>
+      <humanResource id="65" preferenceLevel="0.10"/>
+      <humanResource id="20" preferenceLevel="0.16"/>
+      <humanResource id="101" preferenceLevel="0.98"/>
+      <humanResource id="27" preferenceLevel="0.50"/>
+      <humanResource id="45" preferenceLevel="0.23"/>
+      <humanResource id="30" preferenceLevel="0.01"/>
+      <humanResource id="31" preferenceLevel="0.01"/>
+      <humanResource id="95" preferenceLevel="0.29"/>
+    </staffRequirements>
+  </task>
+</tasks>

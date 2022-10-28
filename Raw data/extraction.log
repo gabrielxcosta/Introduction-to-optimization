@@ -1,0 +1,30 @@
+AR01: Location id='716' latitude/longitude is empty. Location Removed.
+AR01: Location id='719' latitude/longitude is empty. Location Removed.
+AR01: Location id='337' latitude/longitude is empty. Location Removed.
+AR01: Location id='850' latitude/longitude is empty. Location Removed.
+AR01: Location id='408' latitude/longitude is empty. Location Removed.
+AR01: Location id='1113' latitude/longitude is empty. Location Removed.
+HR06: Staff id='64' contains an unused/invalid contract id='115'. Contract entry Removed.
+HR06: Staff id='65' contains an unused/invalid contract id='111'. Contract entry Removed.
+HR05: Staff id='-5' has an invalid start/end location defined id='0'. Staff Removed.
+HR06: Staff id='4' contains an unused/invalid contract id='58'. Contract entry Removed.
+HR06: Staff id='7' contains an unused/invalid contract id='52'. Contract entry Removed.
+HR06: Staff id='71' contains an unused/invalid contract id='118'. Contract entry Removed.
+HR06: Staff id='17' contains an unused/invalid contract id='47'. Contract entry Removed.
+HR06: Staff id='20' contains an unused/invalid contract id='49'. Contract entry Removed.
+HR05: Staff id='86' has an invalid start/end location defined id='716'. Staff Removed.
+HR05: Staff id='87' has an invalid start/end location defined id='719'. Staff Removed.
+HR06: Staff id='27' contains an unused/invalid contract id='60'. Contract entry Removed.
+HR05: Staff id='91' has an invalid start/end location defined id='850'. Staff Removed.
+HR06: Staff id='29' contains an unused/invalid contract id='62'. Contract entry Removed.
+HR06: Staff id='30' contains an unused/invalid contract id='63'. Contract entry Removed.
+HR06: Staff id='94' contains an unused/invalid contract id='162'. Contract entry Removed.
+HR06: Staff id='31' contains an unused/invalid contract id='64'. Contract entry Removed.
+HR06: Staff id='95' contains an unused/invalid contract id='164'. Contract entry Removed.
+HR06: Staff id='35' contains an unused/invalid contract id='91'. Contract entry Removed.
+HR06: Staff id='101' contains an unused/invalid contract id='174'. Contract entry Removed.
+HR05: Staff id='102' has an invalid start/end location defined id='1113'. Staff Removed.
+HR06: Staff id='39' contains an unused/invalid contract id='78'. Contract entry Removed.
+HR05: Staff id='40' has an invalid start/end location defined id='337'. Staff Removed.
+HR06: Staff id='45' contains an unused/invalid contract id='73'. Contract entry Removed.
+HR05: Staff id='49' has an invalid start/end location defined id='408'. Staff Removed.

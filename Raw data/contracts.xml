@@ -1,0 +1,898 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<contracts version="2.0">
+  <contract id="130">
+    <payments>
+      <payByTasks>
+        <wage taskId="243392" rate="0.00"/>
+        <wage taskId="266496" rate="0.00"/>
+        <wage taskId="265923" rate="0.00"/>
+        <wage taskId="245321" rate="0.00"/>
+        <wage taskId="255049" rate="0.00"/>
+        <wage taskId="246222" rate="0.00"/>
+        <wage taskId="244434" rate="0.00"/>
+        <wage taskId="247057" rate="0.00"/>
+        <wage taskId="261649" rate="0.00"/>
+        <wage taskId="254874" rate="0.00"/>
+        <wage taskId="244824" rate="0.00"/>
+        <wage taskId="244382" rate="0.00"/>
+        <wage taskId="261090" rate="0.00"/>
+        <wage taskId="264485" rate="0.00"/>
+        <wage taskId="242976" rate="0.00"/>
+        <wage taskId="249963" rate="0.00"/>
+        <wage taskId="254699" rate="0.00"/>
+        <wage taskId="243496" rate="0.00"/>
+        <wage taskId="264106" rate="0.00"/>
+        <wage taskId="266420" rate="0.00"/>
+        <wage taskId="244017" rate="0.00"/>
+        <wage taskId="256631" rate="0.00"/>
+        <wage taskId="247866" rate="0.00"/>
+        <wage taskId="241529" rate="0.00"/>
+        <wage taskId="253887" rate="0.00"/>
+        <wage taskId="266488" rate="0.00"/>
+      </payByTasks>
+    </payments>
+    <workingHour min="0.00" max="500.00"/>
+  </contract>
+  <contract id="5">
+    <payments>
+      <payByTasks>
+        <wage taskId="251779" rate="4.63"/>
+        <wage taskId="243392" rate="0.00"/>
+        <wage taskId="265923" rate="6.20"/>
+        <wage taskId="245321" rate="9.36"/>
+        <wage taskId="255049" rate="6.20"/>
+        <wage taskId="246222" rate="9.36"/>
+        <wage taskId="250381" rate="4.63"/>
+        <wage taskId="244434" rate="9.36"/>
+        <wage taskId="247057" rate="6.20"/>
+        <wage taskId="254874" rate="6.20"/>
+        <wage taskId="244824" rate="6.20"/>
+        <wage taskId="248671" rate="7.78"/>
+        <wage taskId="244382" rate="6.20"/>
+        <wage taskId="261090" rate="0.00"/>
+        <wage taskId="264485" rate="12.51"/>
+        <wage taskId="242976" rate="6.20"/>
+        <wage taskId="249963" rate="18.82"/>
+        <wage taskId="254699" rate="6.20"/>
+        <wage taskId="243496" rate="6.20"/>
+        <wage taskId="247213" rate="4.63"/>
+        <wage taskId="264106" rate="0.00"/>
+        <wage taskId="244017" rate="6.20"/>
+        <wage taskId="246065" rate="1.47"/>
+        <wage taskId="256631" rate="6.20"/>
+        <wage taskId="247866" rate="4.63"/>
+        <wage taskId="241529" rate="0.00"/>
+        <wage taskId="253887" rate="3.05"/>
+      </payByTasks>
+    </payments>
+    <workingHour min="0.00" max="500.00"/>
+  </contract>
+  <contract id="7">
+    <payments>
+      <payByTasks>
+        <wage taskId="251779" rate="4.63"/>
+        <wage taskId="243392" rate="0.00"/>
+        <wage taskId="265923" rate="6.20"/>
+        <wage taskId="245321" rate="9.36"/>
+        <wage taskId="255049" rate="6.20"/>
+        <wage taskId="246222" rate="9.36"/>
+        <wage taskId="250381" rate="4.63"/>
+        <wage taskId="244434" rate="9.36"/>
+        <wage taskId="247057" rate="6.20"/>
+        <wage taskId="254874" rate="6.20"/>
+        <wage taskId="244824" rate="6.20"/>
+        <wage taskId="248671" rate="7.78"/>
+        <wage taskId="244382" rate="6.20"/>
+        <wage taskId="261090" rate="0.00"/>
+        <wage taskId="264485" rate="12.51"/>
+        <wage taskId="242976" rate="6.20"/>
+        <wage taskId="249963" rate="18.82"/>
+        <wage taskId="254699" rate="6.20"/>
+        <wage taskId="243496" rate="6.20"/>
+        <wage taskId="247213" rate="4.63"/>
+        <wage taskId="264106" rate="0.00"/>
+        <wage taskId="244017" rate="6.20"/>
+        <wage taskId="246065" rate="1.47"/>
+        <wage taskId="256631" rate="6.20"/>
+        <wage taskId="247866" rate="4.63"/>
+        <wage taskId="241529" rate="0.00"/>
+        <wage taskId="253887" rate="3.05"/>
+      </payByTasks>
+    </payments>
+    <workingHour min="0.00" max="500.00"/>
+  </contract>
+  <contract id="72">
+    <payments>
+      <payByTasks>
+        <wage taskId="251779" rate="4.88"/>
+        <wage taskId="243392" rate="0.00"/>
+        <wage taskId="265923" rate="6.54"/>
+        <wage taskId="245321" rate="9.86"/>
+        <wage taskId="255049" rate="6.54"/>
+        <wage taskId="246222" rate="9.86"/>
+        <wage taskId="250381" rate="4.88"/>
+        <wage taskId="244434" rate="9.86"/>
+        <wage taskId="247057" rate="6.54"/>
+        <wage taskId="254874" rate="6.54"/>
+        <wage taskId="244824" rate="6.54"/>
+        <wage taskId="248671" rate="8.20"/>
+        <wage taskId="244382" rate="6.54"/>
+        <wage taskId="261090" rate="0.00"/>
+        <wage taskId="264485" rate="13.19"/>
+        <wage taskId="242976" rate="6.54"/>
+        <wage taskId="249963" rate="19.84"/>
+        <wage taskId="254699" rate="6.54"/>
+        <wage taskId="243496" rate="6.54"/>
+        <wage taskId="247213" rate="4.88"/>
+        <wage taskId="264106" rate="0.00"/>
+        <wage taskId="244017" rate="6.54"/>
+        <wage taskId="246065" rate="1.55"/>
+        <wage taskId="256631" rate="6.54"/>
+        <wage taskId="247866" rate="4.88"/>
+        <wage taskId="241529" rate="0.00"/>
+        <wage taskId="253887" rate="3.21"/>
+      </payByTasks>
+    </payments>
+    <workingHour min="0.00" max="500.00"/>
+  </contract>
+  <contract id="16">
+    <payments>
+      <payByTasks>
+        <wage taskId="251779" rate="4.88"/>
+        <wage taskId="243392" rate="0.00"/>
+        <wage taskId="265923" rate="6.54"/>
+        <wage taskId="245321" rate="9.86"/>
+        <wage taskId="255049" rate="6.54"/>
+        <wage taskId="246222" rate="9.86"/>
+        <wage taskId="250381" rate="4.88"/>
+        <wage taskId="244434" rate="9.86"/>
+        <wage taskId="247057" rate="6.54"/>
+        <wage taskId="254874" rate="6.54"/>
+        <wage taskId="244824" rate="6.54"/>
+        <wage taskId="248671" rate="8.20"/>
+        <wage taskId="244382" rate="6.54"/>
+        <wage taskId="261090" rate="0.00"/>
+        <wage taskId="264485" rate="13.19"/>
+        <wage taskId="242976" rate="6.54"/>
+        <wage taskId="249963" rate="19.84"/>
+        <wage taskId="254699" rate="6.54"/>
+        <wage taskId="243496" rate="6.54"/>
+        <wage taskId="247213" rate="4.88"/>
+        <wage taskId="264106" rate="0.00"/>
+        <wage taskId="244017" rate="6.54"/>
+        <wage taskId="246065" rate="1.55"/>
+        <wage taskId="256631" rate="6.54"/>
+        <wage taskId="247866" rate="4.88"/>
+        <wage taskId="241529" rate="0.00"/>
+        <wage taskId="253887" rate="3.21"/>
+      </payByTasks>
+    </payments>
+    <workingHour min="0.00" max="500.00"/>
+  </contract>
+  <contract id="81">
+    <payments>
+      <payByTasks>
+        <wage taskId="251779" rate="4.80"/>
+        <wage taskId="243392" rate="0.00"/>
+        <wage taskId="265923" rate="6.44"/>
+        <wage taskId="245321" rate="9.72"/>
+        <wage taskId="255049" rate="6.44"/>
+        <wage taskId="246222" rate="9.72"/>
+        <wage taskId="250381" rate="4.80"/>
+        <wage taskId="244434" rate="9.72"/>
+        <wage taskId="247057" rate="6.44"/>
+        <wage taskId="254874" rate="6.44"/>
+        <wage taskId="244824" rate="6.44"/>
+        <wage taskId="248671" rate="8.08"/>
+        <wage taskId="244382" rate="6.44"/>
+        <wage taskId="261090" rate="0.00"/>
+        <wage taskId="264485" rate="12.99"/>
+        <wage taskId="242976" rate="6.44"/>
+        <wage taskId="249963" rate="19.54"/>
+        <wage taskId="254699" rate="6.44"/>
+        <wage taskId="243496" rate="6.44"/>
+        <wage taskId="247213" rate="4.80"/>
+        <wage taskId="264106" rate="0.00"/>
+        <wage taskId="244017" rate="6.44"/>
+        <wage taskId="246065" rate="1.53"/>
+        <wage taskId="256631" rate="6.44"/>
+        <wage taskId="247866" rate="4.80"/>
+        <wage taskId="241529" rate="0.00"/>
+        <wage taskId="253887" rate="3.17"/>
+      </payByTasks>
+    </payments>
+    <workingHour min="0.00" max="500.00"/>
+  </contract>
+  <contract id="145">
+    <payments>
+      <payByTasks>
+        <wage taskId="261090" rate="0.00"/>
+        <wage taskId="264485" rate="0.00"/>
+        <wage taskId="242976" rate="0.00"/>
+        <wage taskId="243392" rate="0.00"/>
+        <wage taskId="265923" rate="0.00"/>
+        <wage taskId="249963" rate="0.00"/>
+        <wage taskId="254699" rate="0.00"/>
+        <wage taskId="245321" rate="0.00"/>
+        <wage taskId="255049" rate="0.00"/>
+        <wage taskId="243496" rate="0.00"/>
+        <wage taskId="246222" rate="0.00"/>
+        <wage taskId="264106" rate="0.00"/>
+        <wage taskId="244434" rate="0.00"/>
+        <wage taskId="244017" rate="0.00"/>
+        <wage taskId="247057" rate="0.00"/>
+        <wage taskId="256631" rate="0.00"/>
+        <wage taskId="247866" rate="0.00"/>
+        <wage taskId="254874" rate="0.00"/>
+        <wage taskId="241529" rate="0.00"/>
+        <wage taskId="244824" rate="0.00"/>
+        <wage taskId="253887" rate="0.00"/>
+        <wage taskId="244382" rate="0.00"/>
+      </payByTasks>
+    </payments>
+    <workingHour min="0.00" max="500.00"/>
+  </contract>
+  <contract id="18">
+    <payments>
+      <payByTasks>
+        <wage taskId="251779" rate="4.76"/>
+        <wage taskId="243392" rate="0.00"/>
+        <wage taskId="265923" rate="6.38"/>
+        <wage taskId="245321" rate="9.63"/>
+        <wage taskId="255049" rate="6.38"/>
+        <wage taskId="246222" rate="9.63"/>
+        <wage taskId="250381" rate="4.76"/>
+        <wage taskId="244434" rate="9.63"/>
+        <wage taskId="247057" rate="6.38"/>
+        <wage taskId="254874" rate="6.38"/>
+        <wage taskId="244824" rate="6.38"/>
+        <wage taskId="248671" rate="8.00"/>
+        <wage taskId="244382" rate="6.38"/>
+        <wage taskId="261090" rate="0.00"/>
+        <wage taskId="264485" rate="12.87"/>
+        <wage taskId="242976" rate="6.38"/>
+        <wage taskId="249963" rate="19.36"/>
+        <wage taskId="254699" rate="6.38"/>
+        <wage taskId="243496" rate="6.38"/>
+        <wage taskId="247213" rate="4.76"/>
+        <wage taskId="264106" rate="0.00"/>
+        <wage taskId="244017" rate="6.38"/>
+        <wage taskId="246065" rate="1.51"/>
+        <wage taskId="256631" rate="6.38"/>
+        <wage taskId="247866" rate="4.76"/>
+        <wage taskId="241529" rate="0.00"/>
+        <wage taskId="253887" rate="3.14"/>
+      </payByTasks>
+    </payments>
+    <workingHour min="0.00" max="500.00"/>
+  </contract>
+  <contract id="146">
+    <payments>
+      <payByTasks>
+        <wage taskId="266420" rate="0.00"/>
+        <wage taskId="261649" rate="0.00"/>
+        <wage taskId="266496" rate="0.00"/>
+        <wage taskId="266488" rate="0.00"/>
+      </payByTasks>
+    </payments>
+    <workingHour min="0.00" max="500.00"/>
+  </contract>
+  <contract id="149">
+    <payments>
+      <payByTasks>
+        <wage taskId="266420" rate="0.00"/>
+        <wage taskId="261649" rate="0.00"/>
+        <wage taskId="266496" rate="0.00"/>
+        <wage taskId="266488" rate="0.00"/>
+      </payByTasks>
+    </payments>
+    <workingHour min="0.00" max="500.00"/>
+  </contract>
+  <contract id="25">
+    <payments>
+      <payByTasks>
+        <wage taskId="251779" rate="4.76"/>
+        <wage taskId="243392" rate="0.00"/>
+        <wage taskId="265923" rate="6.38"/>
+        <wage taskId="245321" rate="9.63"/>
+        <wage taskId="255049" rate="6.38"/>
+        <wage taskId="246222" rate="9.63"/>
+        <wage taskId="250381" rate="4.76"/>
+        <wage taskId="244434" rate="9.63"/>
+        <wage taskId="247057" rate="6.38"/>
+        <wage taskId="254874" rate="6.38"/>
+        <wage taskId="244824" rate="6.38"/>
+        <wage taskId="248671" rate="8.00"/>
+        <wage taskId="244382" rate="6.38"/>
+        <wage taskId="261090" rate="0.00"/>
+        <wage taskId="264485" rate="12.87"/>
+        <wage taskId="242976" rate="6.38"/>
+        <wage taskId="249963" rate="19.36"/>
+        <wage taskId="254699" rate="6.38"/>
+        <wage taskId="243496" rate="6.38"/>
+        <wage taskId="247213" rate="4.76"/>
+        <wage taskId="264106" rate="0.00"/>
+        <wage taskId="244017" rate="6.38"/>
+        <wage taskId="246065" rate="1.51"/>
+        <wage taskId="256631" rate="6.38"/>
+        <wage taskId="247866" rate="4.76"/>
+        <wage taskId="241529" rate="0.00"/>
+        <wage taskId="253887" rate="3.14"/>
+      </payByTasks>
+    </payments>
+    <workingHour min="0.00" max="500.00"/>
+  </contract>
+  <contract id="27">
+    <payments>
+      <payByTasks>
+        <wage taskId="251779" rate="4.77"/>
+        <wage taskId="243392" rate="0.00"/>
+        <wage taskId="265923" rate="6.39"/>
+        <wage taskId="245321" rate="9.64"/>
+        <wage taskId="255049" rate="6.39"/>
+        <wage taskId="246222" rate="9.64"/>
+        <wage taskId="250381" rate="4.77"/>
+        <wage taskId="244434" rate="9.64"/>
+        <wage taskId="247057" rate="6.39"/>
+        <wage taskId="254874" rate="6.39"/>
+        <wage taskId="244824" rate="6.39"/>
+        <wage taskId="248671" rate="8.62"/>
+        <wage taskId="244382" rate="6.39"/>
+        <wage taskId="261090" rate="0.00"/>
+        <wage taskId="264485" rate="12.89"/>
+        <wage taskId="242976" rate="6.39"/>
+        <wage taskId="249963" rate="19.39"/>
+        <wage taskId="254699" rate="6.39"/>
+        <wage taskId="243496" rate="6.39"/>
+        <wage taskId="247213" rate="4.77"/>
+        <wage taskId="264106" rate="0.00"/>
+        <wage taskId="244017" rate="6.39"/>
+        <wage taskId="246065" rate="1.52"/>
+        <wage taskId="256631" rate="6.51"/>
+        <wage taskId="247866" rate="4.77"/>
+        <wage taskId="241529" rate="0.00"/>
+        <wage taskId="253887" rate="3.49"/>
+      </payByTasks>
+    </payments>
+    <workingHour min="0.00" max="500.00"/>
+  </contract>
+  <contract id="155">
+    <payments>
+      <payByTasks>
+        <wage taskId="266420" rate="0.00"/>
+        <wage taskId="261649" rate="0.00"/>
+        <wage taskId="266496" rate="0.00"/>
+        <wage taskId="266488" rate="0.00"/>
+      </payByTasks>
+    </payments>
+    <workingHour min="0.00" max="500.00"/>
+  </contract>
+  <contract id="28">
+    <payments>
+      <payByTasks>
+        <wage taskId="251779" rate="4.76"/>
+        <wage taskId="243392" rate="0.00"/>
+        <wage taskId="265923" rate="6.38"/>
+        <wage taskId="245321" rate="9.63"/>
+        <wage taskId="255049" rate="6.38"/>
+        <wage taskId="246222" rate="9.63"/>
+        <wage taskId="250381" rate="4.76"/>
+        <wage taskId="244434" rate="9.63"/>
+        <wage taskId="247057" rate="6.38"/>
+        <wage taskId="254874" rate="6.38"/>
+        <wage taskId="244824" rate="6.38"/>
+        <wage taskId="248671" rate="8.00"/>
+        <wage taskId="244382" rate="6.38"/>
+        <wage taskId="261090" rate="0.00"/>
+        <wage taskId="264485" rate="12.87"/>
+        <wage taskId="242976" rate="6.38"/>
+        <wage taskId="249963" rate="19.36"/>
+        <wage taskId="254699" rate="6.38"/>
+        <wage taskId="243496" rate="6.38"/>
+        <wage taskId="247213" rate="4.76"/>
+        <wage taskId="264106" rate="0.00"/>
+        <wage taskId="244017" rate="6.38"/>
+        <wage taskId="246065" rate="1.51"/>
+        <wage taskId="256631" rate="6.38"/>
+        <wage taskId="247866" rate="4.76"/>
+        <wage taskId="241529" rate="0.00"/>
+        <wage taskId="253887" rate="3.14"/>
+      </payByTasks>
+    </payments>
+    <workingHour min="0.00" max="500.00"/>
+  </contract>
+  <contract id="29">
+    <payments>
+      <payByTasks>
+        <wage taskId="251779" rate="4.76"/>
+        <wage taskId="243392" rate="0.00"/>
+        <wage taskId="265923" rate="6.38"/>
+        <wage taskId="245321" rate="9.63"/>
+        <wage taskId="255049" rate="6.38"/>
+        <wage taskId="246222" rate="9.63"/>
+        <wage taskId="250381" rate="4.76"/>
+        <wage taskId="244434" rate="9.63"/>
+        <wage taskId="247057" rate="6.38"/>
+        <wage taskId="254874" rate="6.38"/>
+        <wage taskId="244824" rate="6.38"/>
+        <wage taskId="248671" rate="8.00"/>
+        <wage taskId="244382" rate="6.38"/>
+        <wage taskId="261090" rate="0.00"/>
+        <wage taskId="264485" rate="12.87"/>
+        <wage taskId="242976" rate="6.38"/>
+        <wage taskId="249963" rate="19.36"/>
+        <wage taskId="254699" rate="6.38"/>
+        <wage taskId="243496" rate="6.38"/>
+        <wage taskId="247213" rate="4.76"/>
+        <wage taskId="264106" rate="0.00"/>
+        <wage taskId="244017" rate="6.38"/>
+        <wage taskId="246065" rate="1.51"/>
+        <wage taskId="256631" rate="6.38"/>
+        <wage taskId="247866" rate="4.76"/>
+        <wage taskId="241529" rate="0.00"/>
+        <wage taskId="253887" rate="3.14"/>
+      </payByTasks>
+    </payments>
+    <workingHour min="0.00" max="500.00"/>
+  </contract>
+  <contract id="31">
+    <payments>
+      <payByTasks>
+        <wage taskId="251779" rate="4.63"/>
+        <wage taskId="243392" rate="0.00"/>
+        <wage taskId="265923" rate="6.20"/>
+        <wage taskId="245321" rate="9.36"/>
+        <wage taskId="255049" rate="6.20"/>
+        <wage taskId="246222" rate="9.36"/>
+        <wage taskId="250381" rate="4.63"/>
+        <wage taskId="244434" rate="9.36"/>
+        <wage taskId="247057" rate="6.20"/>
+        <wage taskId="254874" rate="6.20"/>
+        <wage taskId="244824" rate="6.20"/>
+        <wage taskId="248671" rate="7.78"/>
+        <wage taskId="244382" rate="6.20"/>
+        <wage taskId="261090" rate="0.00"/>
+        <wage taskId="264485" rate="12.51"/>
+        <wage taskId="242976" rate="6.20"/>
+        <wage taskId="249963" rate="18.82"/>
+        <wage taskId="254699" rate="6.20"/>
+        <wage taskId="243496" rate="6.20"/>
+        <wage taskId="247213" rate="4.63"/>
+        <wage taskId="264106" rate="0.00"/>
+        <wage taskId="244017" rate="6.20"/>
+        <wage taskId="246065" rate="1.47"/>
+        <wage taskId="256631" rate="6.20"/>
+        <wage taskId="247866" rate="4.63"/>
+        <wage taskId="241529" rate="0.00"/>
+        <wage taskId="253887" rate="3.05"/>
+      </payByTasks>
+    </payments>
+    <workingHour min="0.00" max="500.00"/>
+  </contract>
+  <contract id="161">
+    <payments>
+      <payByTasks>
+        <wage taskId="251779" rate="4.80"/>
+        <wage taskId="243392" rate="0.00"/>
+        <wage taskId="265923" rate="6.44"/>
+        <wage taskId="245321" rate="9.72"/>
+        <wage taskId="255049" rate="6.44"/>
+        <wage taskId="246222" rate="9.72"/>
+        <wage taskId="250381" rate="4.80"/>
+        <wage taskId="244434" rate="9.72"/>
+        <wage taskId="247057" rate="6.44"/>
+        <wage taskId="254874" rate="6.44"/>
+        <wage taskId="244824" rate="6.44"/>
+        <wage taskId="248671" rate="8.08"/>
+        <wage taskId="244382" rate="6.44"/>
+        <wage taskId="261090" rate="0.00"/>
+        <wage taskId="264485" rate="12.99"/>
+        <wage taskId="242976" rate="6.44"/>
+        <wage taskId="249963" rate="19.54"/>
+        <wage taskId="254699" rate="6.44"/>
+        <wage taskId="243496" rate="6.44"/>
+        <wage taskId="247213" rate="4.80"/>
+        <wage taskId="264106" rate="0.00"/>
+        <wage taskId="244017" rate="6.44"/>
+        <wage taskId="246065" rate="1.53"/>
+        <wage taskId="256631" rate="6.44"/>
+        <wage taskId="247866" rate="4.80"/>
+        <wage taskId="241529" rate="0.00"/>
+        <wage taskId="253887" rate="3.17"/>
+      </payByTasks>
+    </payments>
+    <workingHour min="0.00" max="500.00"/>
+  </contract>
+  <contract id="35">
+    <payments>
+      <payByTasks>
+        <wage taskId="251779" rate="4.77"/>
+        <wage taskId="243392" rate="0.00"/>
+        <wage taskId="265923" rate="6.39"/>
+        <wage taskId="245321" rate="9.64"/>
+        <wage taskId="255049" rate="6.39"/>
+        <wage taskId="246222" rate="9.64"/>
+        <wage taskId="250381" rate="4.77"/>
+        <wage taskId="244434" rate="9.64"/>
+        <wage taskId="247057" rate="6.39"/>
+        <wage taskId="254874" rate="6.39"/>
+        <wage taskId="244824" rate="6.39"/>
+        <wage taskId="248671" rate="8.62"/>
+        <wage taskId="244382" rate="6.39"/>
+        <wage taskId="261090" rate="0.00"/>
+        <wage taskId="264485" rate="12.89"/>
+        <wage taskId="242976" rate="6.39"/>
+        <wage taskId="249963" rate="19.39"/>
+        <wage taskId="254699" rate="6.39"/>
+        <wage taskId="243496" rate="6.39"/>
+        <wage taskId="247213" rate="4.77"/>
+        <wage taskId="264106" rate="0.00"/>
+        <wage taskId="244017" rate="6.39"/>
+        <wage taskId="246065" rate="1.52"/>
+        <wage taskId="256631" rate="6.51"/>
+        <wage taskId="247866" rate="4.77"/>
+        <wage taskId="241529" rate="0.00"/>
+        <wage taskId="253887" rate="3.49"/>
+      </payByTasks>
+    </payments>
+    <workingHour min="0.00" max="500.00"/>
+  </contract>
+  <contract id="36">
+    <payments>
+      <payByTasks>
+        <wage taskId="251779" rate="4.80"/>
+        <wage taskId="243392" rate="0.00"/>
+        <wage taskId="265923" rate="6.44"/>
+        <wage taskId="245321" rate="9.72"/>
+        <wage taskId="255049" rate="6.44"/>
+        <wage taskId="246222" rate="9.72"/>
+        <wage taskId="250381" rate="4.80"/>
+        <wage taskId="244434" rate="9.72"/>
+        <wage taskId="247057" rate="6.44"/>
+        <wage taskId="254874" rate="6.44"/>
+        <wage taskId="244824" rate="6.44"/>
+        <wage taskId="248671" rate="8.08"/>
+        <wage taskId="244382" rate="6.44"/>
+        <wage taskId="261090" rate="0.00"/>
+        <wage taskId="264485" rate="12.99"/>
+        <wage taskId="242976" rate="6.44"/>
+        <wage taskId="249963" rate="19.54"/>
+        <wage taskId="254699" rate="6.44"/>
+        <wage taskId="243496" rate="6.44"/>
+        <wage taskId="247213" rate="4.80"/>
+        <wage taskId="264106" rate="0.00"/>
+        <wage taskId="244017" rate="6.44"/>
+        <wage taskId="246065" rate="1.53"/>
+        <wage taskId="256631" rate="6.44"/>
+        <wage taskId="247866" rate="4.80"/>
+        <wage taskId="241529" rate="0.00"/>
+        <wage taskId="253887" rate="3.17"/>
+      </payByTasks>
+    </payments>
+    <workingHour min="0.00" max="500.00"/>
+  </contract>
+  <contract id="168">
+    <payments>
+      <payByTasks>
+        <wage taskId="251779" rate="4.80"/>
+        <wage taskId="243392" rate="0.00"/>
+        <wage taskId="265923" rate="6.44"/>
+        <wage taskId="245321" rate="9.72"/>
+        <wage taskId="255049" rate="6.44"/>
+        <wage taskId="246222" rate="9.72"/>
+        <wage taskId="250381" rate="4.80"/>
+        <wage taskId="244434" rate="9.72"/>
+        <wage taskId="247057" rate="6.44"/>
+        <wage taskId="254874" rate="6.44"/>
+        <wage taskId="244824" rate="6.44"/>
+        <wage taskId="248671" rate="8.08"/>
+        <wage taskId="244382" rate="6.44"/>
+        <wage taskId="261090" rate="0.00"/>
+        <wage taskId="264485" rate="12.99"/>
+        <wage taskId="242976" rate="6.44"/>
+        <wage taskId="249963" rate="19.54"/>
+        <wage taskId="254699" rate="6.44"/>
+        <wage taskId="243496" rate="6.44"/>
+        <wage taskId="247213" rate="4.80"/>
+        <wage taskId="264106" rate="0.00"/>
+        <wage taskId="244017" rate="6.44"/>
+        <wage taskId="246065" rate="1.53"/>
+        <wage taskId="256631" rate="6.44"/>
+        <wage taskId="247866" rate="4.80"/>
+        <wage taskId="241529" rate="0.00"/>
+        <wage taskId="253887" rate="3.17"/>
+      </payByTasks>
+    </payments>
+    <workingHour min="0.00" max="500.00"/>
+  </contract>
+  <contract id="169">
+    <payments>
+      <payByTasks>
+        <wage taskId="266420" rate="0.00"/>
+        <wage taskId="261649" rate="0.00"/>
+        <wage taskId="266496" rate="0.00"/>
+        <wage taskId="266488" rate="0.00"/>
+      </payByTasks>
+    </payments>
+    <workingHour min="0.00" max="500.00"/>
+  </contract>
+  <contract id="170">
+    <payments>
+      <payByTasks>
+        <wage taskId="266420" rate="0.00"/>
+        <wage taskId="261649" rate="0.00"/>
+        <wage taskId="266496" rate="0.00"/>
+        <wage taskId="266488" rate="0.00"/>
+      </payByTasks>
+    </payments>
+    <workingHour min="0.00" max="500.00"/>
+  </contract>
+  <contract id="173">
+    <payments>
+      <payByTasks>
+        <wage taskId="251779" rate="4.80"/>
+        <wage taskId="243392" rate="0.00"/>
+        <wage taskId="265923" rate="6.44"/>
+        <wage taskId="245321" rate="9.72"/>
+        <wage taskId="255049" rate="6.44"/>
+        <wage taskId="246222" rate="9.72"/>
+        <wage taskId="250381" rate="4.80"/>
+        <wage taskId="244434" rate="9.72"/>
+        <wage taskId="247057" rate="6.44"/>
+        <wage taskId="254874" rate="6.44"/>
+        <wage taskId="244824" rate="6.44"/>
+        <wage taskId="248671" rate="8.08"/>
+        <wage taskId="244382" rate="6.44"/>
+        <wage taskId="261090" rate="0.00"/>
+        <wage taskId="264485" rate="12.99"/>
+        <wage taskId="242976" rate="6.44"/>
+        <wage taskId="249963" rate="19.54"/>
+        <wage taskId="254699" rate="6.44"/>
+        <wage taskId="243496" rate="6.44"/>
+        <wage taskId="247213" rate="4.80"/>
+        <wage taskId="264106" rate="0.00"/>
+        <wage taskId="244017" rate="6.44"/>
+        <wage taskId="246065" rate="1.53"/>
+        <wage taskId="256631" rate="6.44"/>
+        <wage taskId="247866" rate="4.80"/>
+        <wage taskId="241529" rate="0.00"/>
+        <wage taskId="253887" rate="3.17"/>
+      </payByTasks>
+    </payments>
+    <workingHour min="0.00" max="500.00"/>
+  </contract>
+  <contract id="110">
+    <payments>
+      <payByTasks>
+        <wage taskId="251779" rate="4.80"/>
+        <wage taskId="243392" rate="0.00"/>
+        <wage taskId="265923" rate="6.44"/>
+        <wage taskId="245321" rate="9.72"/>
+        <wage taskId="255049" rate="6.44"/>
+        <wage taskId="246222" rate="9.72"/>
+        <wage taskId="250381" rate="4.80"/>
+        <wage taskId="244434" rate="9.72"/>
+        <wage taskId="247057" rate="6.44"/>
+        <wage taskId="254874" rate="6.44"/>
+        <wage taskId="244824" rate="6.44"/>
+        <wage taskId="244382" rate="6.44"/>
+        <wage taskId="261090" rate="0.00"/>
+        <wage taskId="264485" rate="12.99"/>
+        <wage taskId="242976" rate="6.44"/>
+        <wage taskId="249963" rate="19.54"/>
+        <wage taskId="254699" rate="6.44"/>
+        <wage taskId="243496" rate="6.44"/>
+        <wage taskId="247213" rate="4.80"/>
+        <wage taskId="264106" rate="0.00"/>
+        <wage taskId="244017" rate="6.44"/>
+        <wage taskId="246065" rate="1.53"/>
+        <wage taskId="256631" rate="6.44"/>
+        <wage taskId="247866" rate="4.80"/>
+        <wage taskId="241529" rate="0.00"/>
+        <wage taskId="253887" rate="3.17"/>
+      </payByTasks>
+    </payments>
+    <workingHour min="0.00" max="500.00"/>
+  </contract>
+  <contract id="175">
+    <payments>
+      <payByTasks>
+        <wage taskId="251779" rate="4.80"/>
+        <wage taskId="243392" rate="0.00"/>
+        <wage taskId="265923" rate="6.44"/>
+        <wage taskId="245321" rate="9.72"/>
+        <wage taskId="255049" rate="6.44"/>
+        <wage taskId="246222" rate="9.72"/>
+        <wage taskId="250381" rate="4.80"/>
+        <wage taskId="244434" rate="9.72"/>
+        <wage taskId="247057" rate="6.44"/>
+        <wage taskId="254874" rate="6.44"/>
+        <wage taskId="244824" rate="6.44"/>
+        <wage taskId="248671" rate="8.08"/>
+        <wage taskId="244382" rate="6.44"/>
+        <wage taskId="261090" rate="0.00"/>
+        <wage taskId="264485" rate="12.99"/>
+        <wage taskId="242976" rate="6.44"/>
+        <wage taskId="249963" rate="19.54"/>
+        <wage taskId="254699" rate="6.44"/>
+        <wage taskId="243496" rate="6.44"/>
+        <wage taskId="247213" rate="4.80"/>
+        <wage taskId="264106" rate="0.00"/>
+        <wage taskId="244017" rate="6.44"/>
+        <wage taskId="246065" rate="1.53"/>
+        <wage taskId="256631" rate="6.44"/>
+        <wage taskId="247866" rate="4.80"/>
+        <wage taskId="241529" rate="0.00"/>
+        <wage taskId="253887" rate="3.17"/>
+      </payByTasks>
+    </payments>
+    <workingHour min="0.00" max="500.00"/>
+  </contract>
+  <contract id="176">
+    <payments>
+      <payByTasks>
+        <wage taskId="243392" rate="0.00"/>
+        <wage taskId="266496" rate="0.00"/>
+        <wage taskId="265923" rate="0.00"/>
+        <wage taskId="245321" rate="0.00"/>
+        <wage taskId="255049" rate="0.00"/>
+        <wage taskId="246222" rate="0.00"/>
+        <wage taskId="244434" rate="0.00"/>
+        <wage taskId="247057" rate="0.00"/>
+        <wage taskId="261649" rate="0.00"/>
+        <wage taskId="254874" rate="0.00"/>
+        <wage taskId="244824" rate="0.00"/>
+        <wage taskId="244382" rate="0.00"/>
+        <wage taskId="261090" rate="0.00"/>
+        <wage taskId="264485" rate="0.00"/>
+        <wage taskId="242976" rate="0.00"/>
+        <wage taskId="249963" rate="0.00"/>
+        <wage taskId="254699" rate="0.00"/>
+        <wage taskId="243496" rate="0.00"/>
+        <wage taskId="264106" rate="0.00"/>
+        <wage taskId="266420" rate="0.00"/>
+        <wage taskId="244017" rate="0.00"/>
+        <wage taskId="256631" rate="0.00"/>
+        <wage taskId="247866" rate="0.00"/>
+        <wage taskId="241529" rate="0.00"/>
+        <wage taskId="253887" rate="0.00"/>
+        <wage taskId="266488" rate="0.00"/>
+      </payByTasks>
+    </payments>
+    <workingHour min="0.00" max="500.00"/>
+  </contract>
+  <contract id="114">
+    <payments>
+      <payByTasks>
+        <wage taskId="251779" rate="4.80"/>
+        <wage taskId="243392" rate="0.00"/>
+        <wage taskId="265923" rate="6.44"/>
+        <wage taskId="245321" rate="9.72"/>
+        <wage taskId="255049" rate="6.44"/>
+        <wage taskId="246222" rate="9.72"/>
+        <wage taskId="250381" rate="4.80"/>
+        <wage taskId="244434" rate="9.72"/>
+        <wage taskId="247057" rate="6.44"/>
+        <wage taskId="254874" rate="6.44"/>
+        <wage taskId="244824" rate="6.44"/>
+        <wage taskId="244382" rate="6.44"/>
+        <wage taskId="261090" rate="0.00"/>
+        <wage taskId="264485" rate="12.99"/>
+        <wage taskId="242976" rate="6.44"/>
+        <wage taskId="249963" rate="19.54"/>
+        <wage taskId="254699" rate="6.44"/>
+        <wage taskId="243496" rate="6.44"/>
+        <wage taskId="247213" rate="4.80"/>
+        <wage taskId="264106" rate="0.00"/>
+        <wage taskId="244017" rate="6.44"/>
+        <wage taskId="246065" rate="1.53"/>
+        <wage taskId="256631" rate="6.44"/>
+        <wage taskId="247866" rate="4.80"/>
+        <wage taskId="241529" rate="0.00"/>
+        <wage taskId="253887" rate="3.17"/>
+      </payByTasks>
+    </payments>
+    <workingHour min="0.00" max="500.00"/>
+  </contract>
+  <contract id="123">
+    <payments>
+      <payByTasks>
+        <wage taskId="251779" rate="4.80"/>
+        <wage taskId="243392" rate="0.00"/>
+        <wage taskId="265923" rate="6.44"/>
+        <wage taskId="245321" rate="9.72"/>
+        <wage taskId="255049" rate="6.44"/>
+        <wage taskId="246222" rate="9.72"/>
+        <wage taskId="250381" rate="4.80"/>
+        <wage taskId="244434" rate="9.72"/>
+        <wage taskId="247057" rate="6.44"/>
+        <wage taskId="254874" rate="6.44"/>
+        <wage taskId="244824" rate="6.44"/>
+        <wage taskId="248671" rate="8.08"/>
+        <wage taskId="244382" rate="6.44"/>
+        <wage taskId="261090" rate="0.00"/>
+        <wage taskId="264485" rate="12.99"/>
+        <wage taskId="242976" rate="6.44"/>
+        <wage taskId="249963" rate="19.54"/>
+        <wage taskId="254699" rate="6.44"/>
+        <wage taskId="243496" rate="6.44"/>
+        <wage taskId="247213" rate="4.80"/>
+        <wage taskId="264106" rate="0.00"/>
+        <wage taskId="244017" rate="6.44"/>
+        <wage taskId="246065" rate="1.53"/>
+        <wage taskId="256631" rate="6.44"/>
+        <wage taskId="247866" rate="4.80"/>
+        <wage taskId="241529" rate="0.00"/>
+        <wage taskId="253887" rate="3.17"/>
+      </payByTasks>
+    </payments>
+    <workingHour min="0.00" max="500.00"/>
+  </contract>
+  <contract id="125">
+    <payments>
+      <payByTasks>
+        <wage taskId="243392" rate="0.00"/>
+        <wage taskId="266496" rate="0.00"/>
+        <wage taskId="265923" rate="0.00"/>
+        <wage taskId="245321" rate="0.00"/>
+        <wage taskId="255049" rate="0.00"/>
+        <wage taskId="246222" rate="0.00"/>
+        <wage taskId="244434" rate="0.00"/>
+        <wage taskId="247057" rate="0.00"/>
+        <wage taskId="261649" rate="0.00"/>
+        <wage taskId="254874" rate="0.00"/>
+        <wage taskId="244824" rate="0.00"/>
+        <wage taskId="244382" rate="0.00"/>
+        <wage taskId="261090" rate="0.00"/>
+        <wage taskId="264485" rate="0.00"/>
+        <wage taskId="242976" rate="0.00"/>
+        <wage taskId="249963" rate="0.00"/>
+        <wage taskId="254699" rate="0.00"/>
+        <wage taskId="243496" rate="0.00"/>
+        <wage taskId="264106" rate="0.00"/>
+        <wage taskId="266420" rate="0.00"/>
+        <wage taskId="244017" rate="0.00"/>
+        <wage taskId="256631" rate="0.00"/>
+        <wage taskId="247866" rate="0.00"/>
+        <wage taskId="241529" rate="0.00"/>
+        <wage taskId="253887" rate="0.00"/>
+        <wage taskId="266488" rate="0.00"/>
+      </payByTasks>
+    </payments>
+    <workingHour min="0.00" max="500.00"/>
+  </contract>
+  <contract id="127">
+    <payments>
+      <payByTasks>
+        <wage taskId="243392" rate="0.00"/>
+        <wage taskId="266496" rate="0.00"/>
+        <wage taskId="265923" rate="0.00"/>
+        <wage taskId="245321" rate="0.00"/>
+        <wage taskId="255049" rate="0.00"/>
+        <wage taskId="246222" rate="0.00"/>
+        <wage taskId="244434" rate="0.00"/>
+        <wage taskId="247057" rate="0.00"/>
+        <wage taskId="261649" rate="0.00"/>
+        <wage taskId="254874" rate="0.00"/>
+        <wage taskId="244824" rate="0.00"/>
+        <wage taskId="244382" rate="0.00"/>
+        <wage taskId="261090" rate="0.00"/>
+        <wage taskId="264485" rate="0.00"/>
+        <wage taskId="242976" rate="0.00"/>
+        <wage taskId="249963" rate="0.00"/>
+        <wage taskId="254699" rate="0.00"/>
+        <wage taskId="243496" rate="0.00"/>
+        <wage taskId="264106" rate="0.00"/>
+        <wage taskId="266420" rate="0.00"/>
+        <wage taskId="244017" rate="0.00"/>
+        <wage taskId="256631" rate="0.00"/>
+        <wage taskId="247866" rate="0.00"/>
+        <wage taskId="241529" rate="0.00"/>
+        <wage taskId="253887" rate="0.00"/>
+        <wage taskId="266488" rate="0.00"/>
+      </payByTasks>
+    </payments>
+    <workingHour min="0.00" max="500.00"/>
+  </contract>
+</contracts>

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<solution version="2.0">
+  <author>Decision Maker</author>
+  <method>Manual</method>
+  <timetable>
+    <humanResource id="64">
+      <task id="249963">
+        <date>1</date>
+        <startTime>720</startTime>
+        <taskDuration>179</taskDuration>
+        <transportationMode id="1"/>
+        <contract id="114"/>
+      </task>
+    </humanResource>
+    <humanResource id="4">
+      <task id="251779">
+        <date>1</date>
+        <startTime>720</startTime>
+        <taskDuration>44</taskDuration>
+        <transportationMode id="1"/>
+        <contract id="5"/>
+      </task>
+      <task id="243496">
+        <date>1</date>
+        <startTime>540</startTime>
+        <taskDuration>59</taskDuration>
+        <transportationMode id="1"/>
+        <contract id="5"/>
+      </task>
+      <task id="256631">
+        <date>1</date>
+        <startTime>1040</startTime>
+        <taskDuration>59</taskDuration>
+        <transportationMode id="1"/>
+        <contract id="5"/>
+      </task>
+      <task id="241529">
+        <date>1</date>
+        <startTime>480</startTime>
+        <taskDuration>59</taskDuration>
+        <transportationMode id="1"/>
+        <contract id="5"/>
+      </task>
+    </humanResource>
+    <humanResource id="70">
+      <task id="266496">
+        <date>1</date>
+        <startTime>480</startTime>
+        <taskDuration>719</taskDuration>
+        <transportationMode id="1"/>
+        <contract id="125"/>
+      </task>
+    </humanResource>
+    <humanResource id="7">
+      <task id="254874">
+        <date>1</date>
+        <startTime>600</startTime>
+        <taskDuration>59</taskDuration>
+        <transportationMode id="1"/>
+        <contract id="7"/>
+      </task>
+      <task id="248671">
+        <date>1</date>
+        <startTime>1035</startTime>
+        <taskDuration>74</taskDuration>
+        <transportationMode id="1"/>
+        <contract id="7"/>
+      </task>
+      <task id="247866">
+        <date>1</date>
+        <startTime>525</startTime>
+        <taskDuration>59</taskDuration>
+        <transportationMode id="1"/>
+        <contract id="7"/>
+      </task>
+    </humanResource>
+    <humanResource id="17">
+      <task id="247057">
+        <date>1</date>
+        <startTime>750</startTime>
+        <taskDuration>59</taskDuration>
+        <transportationMode id="1"/>
+        <contract id="16"/>
+      </task>
+      <task id="247213">
+        <date>1</date>
+        <startTime>825</startTime>
+        <taskDuration>44</taskDuration>
+        <transportationMode id="1"/>
+        <contract id="16"/>
+      </task>
+    </humanResource>
+    <humanResource id="20">
+      <task id="245321">
+        <date>1</date>
+        <startTime>600</startTime>
+        <taskDuration>89</taskDuration>
+        <transportationMode id="1"/>
+        <contract id="18"/>
+      </task>
+    </humanResource>
+    <humanResource id="27">
+      <task id="246222">
+        <date>1</date>
+        <startTime>615</startTime>
+        <taskDuration>89</taskDuration>
+        <transportationMode id="1"/>
+        <contract id="25"/>
+      </task>
+      <task id="250381">
+        <date>1</date>
+        <startTime>720</startTime>
+        <taskDuration>44</taskDuration>
+        <transportationMode id="1"/>
+        <contract id="25"/>
+      </task>
+      <task id="246065">
+        <date>1</date>
+        <startTime>510</startTime>
+        <taskDuration>44</taskDuration>
+        <transportationMode id="1"/>
+        <contract id="25"/>
+      </task>
+    </humanResource>
+    <humanResource id="30">
+      <task id="265923">
+        <date>1</date>
+        <startTime>720</startTime>
+        <taskDuration>59</taskDuration>
+        <transportationMode id="1"/>
+        <contract id="28"/>
+      </task>
+      <task id="244434">
+        <date>1</date>
+        <startTime>510</startTime>
+        <taskDuration>119</taskDuration>
+        <transportationMode id="1"/>
+        <contract id="28"/>
+      </task>
+    </humanResource>
+    <humanResource id="31">
+      <task id="264485">
+        <date>1</date>
+        <startTime>570</startTime>
+        <taskDuration>119</taskDuration>
+        <transportationMode id="1"/>
+        <contract id="29"/>
+      </task>
+      <task id="249963">
+        <date>1</date>
+        <startTime>720</startTime>
+        <taskDuration>179</taskDuration>
+        <transportationMode id="1"/>
+        <contract id="29"/>
+      </task>
+    </humanResource>
+    <humanResource id="98">
+      <task id="266420">
+        <date>1</date>
+        <startTime>1200</startTime>
+        <taskDuration>719</taskDuration>
+        <transportationMode id="1"/>
+        <contract id="169"/>
+      </task>
+    </humanResource>
+    <humanResource id="99">
+      <task id="266488">
+        <date>1</date>
+        <startTime>480</startTime>
+        <taskDuration>539</taskDuration>
+        <transportationMode id="1"/>
+        <contract id="170"/>
+      </task>
+    </humanResource>
+    <humanResource id="101">
+      <task id="255049">
+        <date>1</date>
+        <startTime>750</startTime>
+        <taskDuration>59</taskDuration>
+        <transportationMode id="1"/>
+        <contract id="173"/>
+      </task>
+      <task id="261090">
+        <date>1</date>
+        <startTime>465</startTime>
+        <taskDuration>14</taskDuration>
+        <transportationMode id="1"/>
+        <contract id="173"/>
+      </task>
+      <task id="254699">
+        <date>1</date>
+        <startTime>555</startTime>
+        <taskDuration>59</taskDuration>
+        <transportationMode id="1"/>
+        <contract id="173"/>
+      </task>
+      <task id="264106">
+        <date>1</date>
+        <startTime>480</startTime>
+        <taskDuration>59</taskDuration>
+        <transportationMode id="1"/>
+        <contract id="173"/>
+      </task>
+      <task id="253887">
+        <date>1</date>
+        <startTime>1110</startTime>
+        <taskDuration>29</taskDuration>
+        <transportationMode id="1"/>
+        <contract id="173"/>
+      </task>
+    </humanResource>
+  </timetable>
+</solution>

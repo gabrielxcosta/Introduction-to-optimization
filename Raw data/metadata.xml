@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata version="2.0">
+  <name></name>
+  <dateFormat>yyyy-MM-dd</dateFormat>
+  <startDate>2013-05-30</startDate>
+  <endDate>2013-05-30</endDate>
+  <nHumanResources>23</nHumanResources>
+  <nTasks>31</nTasks>
+  <nAreas>5</nAreas>
+  <nMatrices>1</nMatrices>
+  <taskFeatures>
+    <taskPriority>no</taskPriority>
+    <timeWindow>no</timeWindow>
+    <preferredTimeWindow>no</preferredTimeWindow>
+    <taskRelationship>
+      <requiredTask>no</requiredTask>
+      <alternativeTask>no</alternativeTask>
+      <nonOverlappingTask>no</nonOverlappingTask>
+      <synchronizedTask>no</synchronizedTask>
+    </taskRelationship>
+  </taskFeatures>
+  <skillFeatures>
+    <skillProficiency>no</skillProficiency>
+    <alternativeSkills>no</alternativeSkills>
+  </skillFeatures>
+  <staffFeatures>
+    <salaryCosts>yes</salaryCosts>
+    <workRegulations>no</workRegulations>
+    <availabilityPreference>no</availabilityPreference>
+    <areaPreference>yes</areaPreference>
+    <transportPreference>no</transportPreference>
+    <preferredPartners>no</preferredPartners>
+  </staffFeatures>
+</metadata>
